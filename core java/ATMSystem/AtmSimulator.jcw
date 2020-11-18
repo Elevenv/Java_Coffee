@@ -1,0 +1,16 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>AtmSimulator</label>
+	</settings>
+	<users>
+		<user>
+			<path>AtmSimulator.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>AtmSimulator.jcp</path>
+		</project>
+	</projects>
+</workspace>

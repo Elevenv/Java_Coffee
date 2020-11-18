@@ -1,0 +1,47 @@
+<?xml?>
+<workspace_user>
+	<active_project>
+		<label>AtmSimulator</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>AtmSimulator</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>Atm.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>src\Query.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>true</active>
+		</docitem>
+		<docitem>
+			<path>src\BalanceEnquiry.java</path>
+			<source>true</source>
+			<index>2</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>src\Withdrawal.java</path>
+			<source>true</source>
+			<index>3</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>src\Deposit.java</path>
+			<source>true</source>
+			<index>4</index>
+			<active>false</active>
+		</docitem>
+	</open_files>
+</workspace_user>
